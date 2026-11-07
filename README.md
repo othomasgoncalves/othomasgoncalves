@@ -1,6 +1,6 @@
 # Olá, eu sou o Thomás 👋
 
-![Thomás Gonçalves — Software Engineer · Full Stack Engineer · AI Engineer](./banner.svg)
+![Thomás Gonçalves — Software Engineer · Full Stack Engineer · AI Engineer](./banner.png)
 
 Sou engenheiro de software full stack e gosto de construir soluções que resolvem problemas reais, não só código que funciona. Penso primeiro no problema, depois na arquitetura: sistemas bem estruturados, código legível e boas práticas de engenharia são a base de tudo que entrego.
 
